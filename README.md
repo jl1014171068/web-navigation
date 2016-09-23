@@ -60,9 +60,15 @@
 
  * [IT技术博客大学习](http://blogread.cn/it/channel.php?id=61)  
 
+ * [grycheng](http://www.grycheng.com/)  
+
+ * [web资料站](http://www.58lou.com/)  
+
   ## 个人博客类
  
   * [张鑫旭](http://www.zhangxinxu.com/wordpress/)  
+
+  * [阮一峰](http://www.ruanyifeng.com/)  
 
   * [Jerry Qu](https://imququ.com/)  
 
@@ -140,9 +146,9 @@
   
   * [trigkit4](http://hawx1993.github.io/)
   
-  * [](http://puyart.net/)
+  * [efe](http://efe.baidu.com/)
  
-  * []()
+  * [super-d2](http://www.cnblogs.com/super-d2/)
  
   * []()
  
@@ -220,7 +226,8 @@
 ### 设计类
  
 * [觉唯设计](http://www.jiawin.com/)
- 
+
+* [codrops--动效界面](http://tympanus.net/codrops/)
  
 * [sketch.im](http://sketch.im/)
 
@@ -244,12 +251,38 @@
 
 * [ios设计欣赏](http://iosicongallery.com/)   
 
-* [ios设计欣赏](http://iosicongallery.com/)   
+* [设计源](http://websjy.com/)   
+
+* [ifeiwu](http://www.ifeiwu.com/) 
+
+* [web.uehtml](http://web.uehtml.com/)   
+
+* [移动端设计](http://www.mobile-patterns.com/iphone/recently-added) 
+
+* [awwwards](http://www.awwwards.com/)   
+
+* [酷站](http://www.iiiimg.com/)   
 
 
  ## 工具类
  
  * [颜色](http://www.colourlovers.com/palettes)  
+
+ * [colorhunt-配色](http://www.colorhunt.co/)  
+
+ * [adobe-配色](https://color.adobe.com/zh/create/color-wheel/?base=2&rule=Monochromatic&selected=3&name=我的%20Color%20主題&mode=rgb&rgbvalues=0,0.039510038680987236,0.5,0.30000000000000004,0.35531405415338213,1,0,0.07902007736197447,1,0.005000000000000682,0.047058823529411764,0.5372549019607843,0,0.06321606188957958,0.8&swatchOrder=0,1,2,3,4)  
+
+ * [brandcolors-配色](https://brandcolors.net/)  
+
+ * [design-seeds-配色](http://www.design-seeds.com/)  
+
+ * [colorhunter-配色](http://www.colorhunter.com/)  
+
+ * [colorschemer-配色](http://www.colorschemer.com/) 
+
+ * [peise-配色](http://www.peise.net/)  
+
+ * [peise-配色](http://www.peise.net/tools/web/#)  
  
  * [中国设计在线](http://www.ccdol.com/)
   
@@ -272,7 +305,9 @@
 
 * [behance](https://www.behance.net/)   
 
-* [fribbble](http://www.fribbble.com/)   
+* [fribbble](http://www.fribbble.com/) 
+  
+* [graphberry](http://www.graphberry.com/)   
 
 * [inspired-ui](http://inspired-ui.com/)   
 
@@ -310,21 +345,25 @@
 
 * [uiparade](http://www.uiparade.com/)
 
-* []()
+* [优设](http://www.uisdc.com/)
 
-* []()
+* [视觉](http://shijue.me/)
 
-* []()
+* [ui货](http://ui.tuyiyi.com/)
 
-* []()
+* [ui8](https://ui8.net/)
 
-* []()
+* [图虫](https://tuchong.com/)
 
-* []()
+* [ios界面](https://ios.uplabs.com/)
 
-* []()
+* [素材](http://realisticshots.com/)
 
-* []()
+* [精品素材高清](http://freenaturestock.com/)
+
+* [精品素材高清](https://unsplash.com/)
+
+* [免费的高清素材](https://pixabay.com/zh/)
 
 * [graphicriver](https://graphicriver.net/)   
 
@@ -358,7 +397,6 @@
 
 * [小站](http://zhan.renren.com/home?checked=true)   
 
-
      
    
 ### 前端工具类
@@ -366,6 +404,118 @@
  ## 图片处理 
  
  * [智图-图片优化](http://zhitu.isux.us/)
+ 
+ * []()
+ 
+ * []()
+ 
+ ## 前端工具
+
+ * [runjs-js代码测试、在线编辑](http://runjs.cn/)
+
+ * [jsfiddle-js代码测试、在线编辑](https://jsfiddle.net/)
+
+ * [codepen-js代码测试、在线编辑](http://codepen.io/pen/)
+ 
+ * [前端在线工具集](http://tool.lu/c/developer)
+
+ * [开源中国-前端在线工具集](http://tool.oschina.net/)
+ 
+ * [兼容性检测](http://caniuse.com/)
+
+ * [animate动效](https://daneden.github.io/animate.css/)
+
+ * [px-rem-em转化](http://pxtoem.com/)
+
+ * [兼容性测试](https://turbo.net/browsers)
+ 
+ * [汇聚层](http://www.htmljscss.com/)
+
+ * [css、js压缩,base64](http://tool.css-js.com/base64.html)
+ 
+ * [微信调试工具](http://blog.qqbrowser.cc/)
+ 
+ * [各种button样式自定义](http://www.bestcssbuttongenerator.com/)
+ 
+ * [cssmatic-在线生成](http://www.cssmatic.com/)
+ 
+ * [响应式布局在线测试](http://resizr.co/#)
+ 
+ * [vr社区](http://720yun.com/find)
+ 
+ * [json校验](http://www.bejson.com/)
+ 
+ * [在线ico](http://favicon.iamzz.com/)
+ 
+ * [在线压缩](http://tool.css-js.com/)
+  
+ * [在线按钮生成css](http://buttoncssgenerator.com/)
+ 
+ * [pleeease-css处理器](http://pleeease.io/)
+ 
+ * [css生成](http://css3buttongenerator.com/)
+ 
+ * [csstypeset-css生成](http://csstypeset.com/)
+ 
+ * [patternify-css生成](http://www.patternify.com/)
+
+ * [css3maker-css生成](http://www.css3maker.com/)
+
+ * [css3-css生成](http://www.css3.me/)
+
+ * [layerstyles-css生成](http://layerstyles.org/builder.html)
+
+ * [border-radius-border生成](http://border-radius.com/)
+ 
+ * [css3generator-css生成(全)](http://www.css3generator.com/)
+ 
+ * [css浅重置](https://necolas.github.io/normalize.css/)
+
+ * [css完全重置](http://cssreset.com/#)
+
+ * [css規範](http://nec.netease.com/standard/css-sort.html)
+ 
+ * [cdn仓库](https://cdnjs.com/)
+ 
+ * [web安全色](http://flatuicolors.com/)
+
+ * [bs-web安全色](http://www.bootcss.com/p/websafecolors/)
+ 
+ * [奥森图标](http://fontawesome.io/icons/)
+ 
+ * [icomoon-图标(很少用)](https://icomoon.io/app/#/select)
+   
+ * [easyicon(很少用)](http://www.easyicon.net/)
+ 
+ * [草料二維碼生成器](http://cli.im/)
+ 
+ * [字体识别](http://www.qiuziti.com/)
+ 
+ * [gif生成](http://gif.55.la/)
+ 
+ * [百度地图快速生成-简化](http://api.map.baidu.com/lbsapi/creatmap/index.html?qq-pf-to=pcqq.c2c)
+ 
+ * [锻炼设计感](http://type.method.ac/#)
+ 
+ * []()
+ 
+ * []()
+ 
+ * []()
+ 
+ * []()
+ 
+ * []()
+ 
+ * []()
+ 
+ * []()
+ 
+ * []()
+ 
+ * []()
+ 
+ * []()
  
  * []()
  
@@ -390,9 +540,9 @@
 
 * [Awesomes--前端超全插件集](https://www.awesomes.cn/)
 
-* []()
+* [网站盒子](http://www.siteboxs.com/siteBox/tag/tname/html5.html)
 
-* []()
+* [jqueryfuns](http://www.jqueryfuns.com/)
 
 * []()
 
@@ -493,7 +643,7 @@
 
 * [ih5](http://www.ih5.cn/not-logged-in)   
 
-* []()   
+* [webydo](http://www.webydo.com/)   
 
 * []()   
 
@@ -562,7 +712,11 @@
 
 * [创客贴](https://www.chuangkit.com/index.html)   
 
-* []()   
+* [微信相关](http://weixin.jiqunzhihui.com/)   
+
+* [teambition-团队协作工具](https://www.teambition.com/)   
+
+* [原型设计](http://typecast.com/)
 
 * []()   
 
@@ -602,28 +756,54 @@
 
 * []()   
 
-* []()   
+### 设计界面很好看的网站
 
-* []()   
+* [iceart](http://www.iceart.me/)   
 
-* []()   
+* [妙味课堂](http://www.miaov.com/)   
 
-* []()   
+* [锤子](http://www.smartisan.com/#/)   
 
-* []()   
+* [awwwards](http://www.awwwards.com/)   
 
-* []()   
+* [pastudio](http://www.pastudio.com.cn/)   
 
-* []()   
+* [web-designers](http://www.web-designers.cn/)   
 
-* []()   
+* [莫贝网](http://www.mobileui.cn/)   
 
-* []()   
+* [uelike](http://www.uelike.com/#index)   
 
-* []()   
+* [activation-nodeplus](http://www.activation-nodeplus.com/#!/home/)   
 
-* []()   
+* [species](http://species-in-pieces.com/#)   
 
+* [nipponcolors](http://nipponcolors.com/)  
+
+* [蒜泥科技](http://www.suanier.com/)      
+* []()      
+* []()      
+
+### 模板网站
+
+* [爱果果-html5模板](http://www.iguoguo.net/)      
+* [design63](http://www.design63.com.cn/)      
+* [maka](http://maka.im/?type=project)      
+* [html5up](https://html5up.net/)      
+* [themewagon](https://themewagon.com/)      
+* [shapebootstrap](https://shapebootstrap.net/free-templates?start=15)      
+* [bootswatch](https://bootswatch.com/)      
+* [psdexplorer](http://www.psdexplorer.com/psd-category/templates/)      
+* [themegraphy](http://themegraphy.com/)      
+* [8bears](http://www.8bears.com/)      
+* [speckyboy](https://speckyboy.com/)      
+* [bestpsdfreebies](http://www.bestpsdfreebies.com/)      
+* [graphicsbay](http://graphicsbay.com/category/Exclusive/Mobile%20UI/13)      
+* [freebiesbug](http://freebiesbug.com/psd-freebies/facebook-page-psd-mockup/)      
+* [1001freedownloads](http://www.1001freedownloads.com/)      
+* [pixelhint](http://pixelhint.com/)      
+* [w3layouts](https://w3layouts.com/)      
+* []()      
 * []()      
    
    
