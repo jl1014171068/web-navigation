@@ -6,7 +6,7 @@
 
  * [GitHub - jnoodle/f2e-collect: 前端开发相关的社区、网站、博客、资源等搜集](https://github.com/jnoodle/f2e-collect)
  * [前端开发仓库 - Code for Web Developer](http://code.ciaoca.com/)
- * [前端开发资源导航 - 前端工程师专用的导航站](http://www.css88.com/nav/" ADD_DATE="1469424001)
+ * [前端开发资源导航 - 前端工程师专用的导航站](http://www.css88.com/nav/)
  * [前端圈 - 江湖录 - 前端导航](http://sentsin.com/daohang/)
  * [前端导航站 - 前端工程师专用的导航站](http://123.jser.us/)
  * [前端网址导航_大前端](http://www.daqianduan.com/nav)
